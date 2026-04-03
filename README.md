@@ -31,7 +31,7 @@ Stages
 
 [ ] Imputation of missing data
 
-[ ] DiAna R package for drug safety investigations
+[X] DiAna R package for drug safety investigations
 
 [ ] Linkage with other ontologies
 
